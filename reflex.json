@@ -1,0 +1,4 @@
+{
+    "db_url":"postgresql://postgres:NXNyBYpMPNlkoRYSqiqWFOFloimLjHin@postgres.railway.internal:5432/railway",
+    "project_name": "crud_categorias"
+}
